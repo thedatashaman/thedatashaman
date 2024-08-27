@@ -1,4 +1,4 @@
-# Hi there, I'm Dhaman Sehdev 👋
+# Hi there, I'm Dhaman Sehdev = The Data Shaman! 👋
 
 ## 🚀 About Me
 I am an experienced Data Solutions Architect and Engineer with a passion for data-driven decision-making. With a diverse background in data warehousing, business intelligence, and cloud infrastructure, I've led and contributed to projects across various industries.
@@ -15,11 +15,13 @@ I am an experienced Data Solutions Architect and Engineer with a passion for dat
 
 
 ### 🛠️ Skills
-- **Data Warehousing**: Snowflake, Redshift, BigQuery
+- **Data Warehousing**: Snowflake, Redshift,Big Query, Microsoft Azure Synapse Analytics, Vertica, Essbase, IBM Db2 Warehouse on Cloud, Teradata.
+- **ETL Tools**: Fivetran, AWS Glue, AWS Data Pipeline, AWS Lambda, Amazon EMR, AWS Glue DataBrew, Apache Airflow, Google Cloud Dataflow, Google Cloud Dataprep, Google BigQuery Data Transfer Service, Google Cloud Composer, Google Cloud Dataproc, Apache Beam, Azure Data Factory, Azure Databricks, Azure Logic Apps, Azure Synapse Analytics, Azure Stream Analytics, Apache NiFi, StreamSets
 - **Cloud Platforms**: AWS, GCP, Azure
-- **Data Visualization**: Power BI, Tableau
+- **Data Visualization**: DOMO, Tableau, Microsoft Power BI, Google Data Studio, QlikView, IBM Cognos Analytics, MicroStrategy, SAS Visual Analytics, Looker, Sisense, Yellowfin, SAP BusinessObjects, Zoho Analytics, Google Analytics, Klipfolio, Mode Analytics, Chartio, Pentaho, Birst
 - **Programming**: SQL, Python, Shell Scripting
-- **CI/CD Tools**: Jenkins, Git, Liquibase
+- **CI/CD Tools**: Jenkins, Git, Liquibase, Kubernetes, Terraform, Docker Swarm, Apache Mesos, Google Kubernetes Engine, Nomad by HashiCorp, Amazon ECS,Red Hat OpenShift
+- **Gen AI Tools**: OpenAI, Amazon SageMaker, Rekognition, Polly, Forecast, Textract, DeepMind AlphaGo, Amazon Lex, Adobe Sensei, Hugging Face Transformers
 
 ### 🎓 Education
 - MBA in Finance
