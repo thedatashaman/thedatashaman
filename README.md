@@ -1,7 +1,7 @@
 # Hi there, I'm Dhaman Sehdev = The Data Shaman! 👋
 
 ## 🚀 About Me
-I am an experienced Data Solutions Architect and Engineer with a passion for data-driven decision-making. With a diverse background in data warehousing, business intelligence, and cloud infrastructure, I've led and contributed to projects across various industries.
+I am an experienced Data Solutions Architect and Engineer with a passion for data-driven decision-making. With a diverse background in AI/ML, Data Architecture, data warehousing, business intelligence, and cloud infrastructure, I've led and contributed to projects across various industries.
 
 ### 💼 Professional Experience
 - **Lead Data Engineer at Brivo**  
