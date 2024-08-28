@@ -4,22 +4,22 @@
 I am an experienced Data Solutions Architect and Engineer with a passion for data-driven decision-making. With a diverse background in AI/ML, Data Architecture, data warehousing, business intelligence, and cloud infrastructure, I've led and contributed to projects across various industries.
 
 ### 💼 Professional Experience
-- **Sr. SQL Server DBA at Xerox**
+- **Sr. SQL Server DBA at Xerox**                                                                                              
   Managed the migration of data from Oracle to SQL Server, implementing high availability clusters and security standards.
 
-- **Data Warehouse Architect at John Hopkins Hospital**
+- **Data Warehouse Architect at John Hopkins Hospital**                                                                        
   Implemented, configured and maintained above 3 terabytes size SQL Server Databases in a SQL Server environment.
 
-- **Sr. SQL Server DBA at UMMS**
+- **Sr. SQL Server DBA at UMMS**                                                                                       
   Managed and optimized over 1900 SQL Server databases, implementing performance tuning and backup solutions.
 
-- **Lead Database Administrator (Cloud) at TotalWine&More**
+- **Lead Database Administrator (Cloud) at TotalWine&More**                                                                        
   Worked as Lead Database Administrator to design data\database solutions in GCP\Azure environment and lead a team of 5 data analysts
 
-- **Lead AWS Data Solution Engineer at Upside Business Travel**
+- **Lead AWS Data Solution Engineer at Upside Business Travel**                                                                              
   Architected AWS-based data solutions, managing data science and analytical orchestration using Aurora MySQL and Snowflake
 
-- **Lead AWS Data Architect at Essex Management**  
+- **Lead AWS Data Architect at Essex Management**                                                                                            
   Architected and optimized AWS-based data solutions to meet the needs of enterprise clients, focusing on scalability and performance.
 
 - **Lead Data Engineer at Brivo**  
