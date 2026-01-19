@@ -25,7 +25,7 @@ I am an experienced Data Solutions Architect and Engineer with a passion for dat
 - **Lead Data Engineer at Brivo**  
   Designed and managed data pipelines and architecture, ensuring efficient data flow and integration across multiple systems.
 
-- **Data Engineering Manager at Dealerware**  
+- **Data Engineering Manager at Dealerware(Latest)**  
   Led a team in developing robust data solutions for car fleet management, enhancing data accessibility and analysis.
 
 
